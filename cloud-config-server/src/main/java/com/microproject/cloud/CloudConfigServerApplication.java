@@ -16,7 +16,8 @@ public class CloudConfigServerApplication {
 
 }
 
-//Project video link : https://www.youtube.com/watch?v=BnknNTN8icw
+//Microservices study link here : https://www.javatpoint.com/microservices
+//Project video link here : https://www.youtube.com/watch?v=BnknNTN8icw
 //registry - config server - api-gateway- services - dashboard - refresh eureka server
 //adding zipkins(dowanload jar from https://zipkin.io/pages/quickstart.html) and sleuth
 //java -jar zipkin-server-2.23.16-exec.jar
